@@ -1,0 +1,31 @@
+baseURL = "http://example.org/"
+languageCode = "en"
+staticDir = "static/"
+theme = "hyde-hyde"
+title = "Campbell Codes"
+author = "Campbell Alden"
+
+summaryLength = 10
+enableEmoji = true
+[params]
+  description = "Programming, Chess, Tokyo"
+  profilePicture = "https://caalden.github.io/img/profile.png"
+
+[params.social]
+  gravatar = "campbellsalden@gmail.com"
+  twitter = "souperman527"
+  github = "CaAlden"
+  lichess = "soup-erman"
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Japan Blog"
+  weight = 200
+  identifier = "japan-blog"
+  url = "/japan-blog/"

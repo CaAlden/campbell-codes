@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>http://example.org/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Aug 2020 14:57:30 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fetch</title>
+      <link>http://example.org/projects/fetch/</link>
+      <pubDate>Sun, 23 Aug 2020 14:57:30 +0900</pubDate>
+      
+      <guid>http://example.org/projects/fetch/</guid>
+      <description>For my senior Capstone project, I helped design and build an autonomous drone system for the deployment and retrieval of sensor nodes.</description>
+    </item>
+    
+  </channel>
+</rss>
