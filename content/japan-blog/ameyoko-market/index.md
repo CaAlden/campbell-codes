@@ -1,9 +1,14 @@
 ---
 title: "Ameyoko Market"
 date: 2019-01-01T17:39:00+09:00
-
-draft: true
+draft: false
+images: ["./cover.jpg"]
+cascade:
+  banner: ["./cover.jpg"]
 ---
+
+{{<cover src="./cover.jpg">}}
+
 Hello all! It's been a while since I've written one of these, so I wanted to give
 a quick heads up about what I'm planning to do going forward. I have decided that
 trying to catch everyone up with what I've been doing since my last post in July would
