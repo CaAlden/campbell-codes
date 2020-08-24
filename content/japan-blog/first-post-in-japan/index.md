@@ -51,7 +51,7 @@ toothpaste and body wash. The brands in japan are virtually unrecognizable and I
 not have been using actual toothpaste for the first few brushes! I did eventually sort everything
 out and I learned quite a few new words along the way.
 
-##Kim's Visit
+## Kim's Visit
 
 Kim landed on the 10th at Haneda airport. Haneda is much closer to the actual city,
 so I suggested she land there to avoid some of the craziness of the trip in from Narita
